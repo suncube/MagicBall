@@ -4,3 +4,8 @@ This is my first independent project. It was made in 2015, so long ago). I wante
 
 
 [![Magic 8 ball video ](http://drive.google.com/uc?export=view&id=1RNTw64Qtu6Loddz7wFvz8IxNJTs1ojU9)](https://youtu.be/DQHkyWy-7qc)
+
+
+**Folow me:** 
+
+[Patreon](https://www.patreon.com/suncube)  | [Twitter](https://twitter.com/suncubestudio) | [Facebook](https://www.facebook.com/suncubestudio/) | [YouTube](https://www.youtube.com/channel/UC4O9GHjx0ovyVYJgMg4aFMA?view_as=subscriber) | [AssetStore](https://assetstore.unity.com/publishers/14506) | [GitHub](https://github.com/suncube)
