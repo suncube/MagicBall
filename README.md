@@ -11,6 +11,3 @@ This is my first independent project. It was made in 2015, so long ago). I wante
 
 [![Magic 8 ball video ](/ReadmeSource/preview1.png)](https://youtu.be/DQHkyWy-7qc)
 
-
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
